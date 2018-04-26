@@ -13,14 +13,15 @@ I Used Google cloud platform to deploy the MHN Admin Application.
 
 # Issues encountered
 * Installing the MHN Admin application via gloud ssh did not work at all( as instructing by the codepath assignment page)
-  - most of my time was spent trying to find the issue.
+   most of my time was spent trying to find the issue.
 
 
 # summary of data collected
 * dianaea - over 	3033 attacks
 * elastichoney - 1 attack
 * shockpot - 0 attacks
-* amun - 2188 attacks  
+* amun - 2188 attacks
+* No malware was found in my investigation.
 
 - [ ] Dasboard View: ![Alt Text](admin.gif)
 
